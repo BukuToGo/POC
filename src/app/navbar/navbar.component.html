@@ -1,0 +1,24 @@
+<nav class="navbar">
+    <div class="navbar-container">
+      <!-- Logo -->
+      <a class="navbar-logo" routerLink="/">
+        BukuToGo
+      </a>
+  
+      <!-- Menu Items -->
+      <ul class="navbar-menu">
+        <li><a routerLink="/home">Home</a></li>
+        <li><a routerLink="/filter-bags">Filter Bags</a></li>
+        <li><a routerLink="/geo-bags">Geo-based Bags</a></li>
+        <li><a routerLink="/profile">Profile</a></li>
+      </ul>
+  
+      <!-- Sign In / Sign Up -->
+      <div class="navbar-auth">
+        <button *ngIf="!isLoggedIn" routerLink="/login">Sign In</button>
+        <button *ngIf="!isLoggedIn" routerLink="/signup">Sign Up</button>
+        <button *ngIf="isLoggedIn" (click)="logout()">Logout</button>
+      </div>
+    </div>
+  </nav>
+  

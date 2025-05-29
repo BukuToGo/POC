@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1748534794818,
+  "timestamp": 1748539516330,
   "index": "/POC/index.html",
   "assetGroups": [
     {
@@ -28,14 +28,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/POC/icons/icon-128x128.png",
-        "/POC/icons/icon-144x144.png",
-        "/POC/icons/icon-152x152.png",
-        "/POC/icons/icon-192x192.png",
-        "/POC/icons/icon-384x384.png",
-        "/POC/icons/icon-512x512.png",
-        "/POC/icons/icon-72x72.png",
-        "/POC/icons/icon-96x96.png"
+        "/POC/icons/icon-512.png"
       ],
       "patterns": []
     }
@@ -43,17 +36,10 @@
   "dataGroups": [],
   "hashTable": {
     "/POC/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/POC/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/POC/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/POC/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/POC/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/POC/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/POC/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/POC/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/POC/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/POC/index.html": "1f526316d099bcda7b7d543dd48ce75d5ed6653d",
+    "/POC/icons/icon-512.png": "cdeb376b07100781999dd1b712a1a39083dfe8cb",
+    "/POC/index.html": "fa004af959f32ca3be472c3baf63726cd975a362",
     "/POC/main-U5GR2E3I.js": "ec4546561b3debc3cf13c32df9c19f3b9236cec4",
-    "/POC/manifest.webmanifest": "8107f6123e4f63d23c3f9ff8172f4940683abd11",
+    "/POC/manifest.webmanifest": "3b429b9ea0611124dfa3e19b616a0e0d49475936",
     "/POC/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/POC/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
